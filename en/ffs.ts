@@ -4,38 +4,45 @@
 <context>
     <name>AboutDlg</name>
     <message>
-        <location filename="../src/forms/aboutdlg.ui" line="14"/>
+        <location filename="../src/forms/aboutdlg_qt4.ui" line="14"/>
+        <location filename="../src/forms/aboutdlg_qt5.ui" line="14"/>
         <source>About...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/aboutdlg.ui" line="87"/>
+        <location filename="../src/forms/aboutdlg_qt4.ui" line="87"/>
+        <location filename="../src/forms/aboutdlg_qt5.ui" line="87"/>
         <source>Acknowledgements</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/aboutdlg.ui" line="93"/>
+        <location filename="../src/forms/aboutdlg_qt4.ui" line="93"/>
+        <location filename="../src/forms/aboutdlg_qt5.ui" line="93"/>
         <source>Special thanks to our Patrons:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/aboutdlg.ui" line="125"/>
+        <location filename="../src/forms/aboutdlg_qt4.ui" line="122"/>
+        <location filename="../src/forms/aboutdlg_qt5.ui" line="125"/>
         <source>Very special thanks to:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/aboutdlg.ui" line="163"/>
+        <location filename="../src/forms/aboutdlg_qt4.ui" line="160"/>
+        <location filename="../src/forms/aboutdlg_qt5.ui" line="163"/>
         <source>Thanks to:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/aboutdlg.ui" line="190"/>
+        <location filename="../src/forms/aboutdlg_qt4.ui" line="187"/>
+        <location filename="../src/forms/aboutdlg_qt5.ui" line="190"/>
         <source>Legal information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/aboutdlg.ui" line="196"/>
-        <source>Fighter Factory is developed using Nokia Qt Library and licensed under the LGPL 2.1 license.
+        <location filename="../src/forms/aboutdlg_qt4.ui" line="193"/>
+        <location filename="../src/forms/aboutdlg_qt5.ui" line="196"/>
+        <source>Fighter Factory is developed using Qt Library and licensed under the LGPL 2.1 license.
 
 This program uses the Universal Encoding Detector developed by Mozilla Foundation, and licensed under the MPL license. The source code is available on the Mozilla source page.
 
@@ -55,7 +62,7 @@ The program is provided AS IS with NO WARRANTY OF ANY KIND.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/aboutdlg.cpp" line="11"/>
+        <location filename="../src/forms/aboutdlg.cpp" line="18"/>
         <source>Copyright %1. all rights reserved.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -77,7 +84,7 @@ Attention: all files will be overwritten by the backup.</source>
 <context>
     <name>BackupManager</name>
     <message>
-        <location filename="../src/forms/bakdlg.cpp" line="53"/>
+        <location filename="../src/forms/bakdlg.cpp" line="54"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
@@ -160,12 +167,12 @@ Attention: all files will be overwritten by the backup.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/breakpointdlg.cpp" line="82"/>
+        <location filename="../src/forms/breakpointdlg.cpp" line="83"/>
         <source>Choose file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/breakpointdlg.cpp" line="82"/>
+        <location filename="../src/forms/breakpointdlg.cpp" line="83"/>
         <source>All files</source>
         <translation type="unfinished"></translation>
     </message>
@@ -188,12 +195,12 @@ Attention: all files will be overwritten by the backup.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/calculator.cpp" line="80"/>
+        <location filename="../src/forms/calculator.cpp" line="81"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/calculator.cpp" line="80"/>
+        <location filename="../src/forms/calculator.cpp" line="81"/>
         <source>Division by zero.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -207,8 +214,8 @@ Attention: all files will be overwritten by the backup.</source>
     </message>
     <message>
         <location filename="../src/forms/clipdlg.ui" line="20"/>
-        <location filename="../src/forms/clipdlg.cpp" line="35"/>
-        <location filename="../src/forms/clipdlg.cpp" line="48"/>
+        <location filename="../src/forms/clipdlg.cpp" line="36"/>
+        <location filename="../src/forms/clipdlg.cpp" line="49"/>
         <source>Cut</source>
         <translation type="unfinished"></translation>
     </message>
@@ -228,152 +235,144 @@ Attention: all files will be overwritten by the backup.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/clipdlg.cpp" line="35"/>
-        <location filename="../src/forms/clipdlg.cpp" line="48"/>
+        <location filename="../src/forms/clipdlg.cpp" line="36"/>
+        <location filename="../src/forms/clipdlg.cpp" line="49"/>
         <source>Item name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>DebugEditor</name>
-    <message>
-        <location filename="../src/interface/debugger.cpp" line="30"/>
-        <source>Debug</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EAdvancedSearch</name>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="314"/>
+        <location filename="../src/widgets/advsearch.cpp" line="379"/>
         <source>Directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="401"/>
-        <location filename="../src/widgets/advsearch.cpp" line="416"/>
+        <location filename="../src/widgets/advsearch.cpp" line="442"/>
+        <location filename="../src/widgets/advsearch.cpp" line="458"/>
         <source>No matches found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="401"/>
-        <location filename="../src/widgets/advsearch.cpp" line="416"/>
+        <location filename="../src/widgets/advsearch.cpp" line="442"/>
+        <location filename="../src/widgets/advsearch.cpp" line="458"/>
         <source>%1 matches found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="431"/>
+        <location filename="../src/widgets/advsearch.cpp" line="465"/>
         <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="432"/>
+        <location filename="../src/widgets/advsearch.cpp" line="466"/>
         <source>Search again</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="433"/>
+        <location filename="../src/widgets/advsearch.cpp" line="467"/>
         <source>Replace with:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="434"/>
+        <location filename="../src/widgets/advsearch.cpp" line="468"/>
         <source>Replace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="435"/>
+        <location filename="../src/widgets/advsearch.cpp" line="469"/>
         <source>This change cannot be
 undone on closed files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="436"/>
+        <location filename="../src/widgets/advsearch.cpp" line="470"/>
         <source>Scope:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="437"/>
+        <location filename="../src/widgets/advsearch.cpp" line="471"/>
         <source>Type:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="438"/>
+        <location filename="../src/widgets/advsearch.cpp" line="472"/>
         <source>Search for:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="439"/>
+        <location filename="../src/widgets/advsearch.cpp" line="473"/>
         <source>Case sensitive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="440"/>
+        <location filename="../src/widgets/advsearch.cpp" line="474"/>
         <source>Whole words only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="441"/>
+        <location filename="../src/widgets/advsearch.cpp" line="475"/>
         <source>Use Regular expression</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="442"/>
+        <location filename="../src/widgets/advsearch.cpp" line="476"/>
         <source>Search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="443"/>
+        <location filename="../src/widgets/advsearch.cpp" line="477"/>
         <source>Search &amp;&amp; Replace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="446"/>
+        <location filename="../src/widgets/advsearch.cpp" line="480"/>
         <source>All projects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="447"/>
+        <location filename="../src/widgets/advsearch.cpp" line="481"/>
         <source>Current project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="448"/>
+        <location filename="../src/widgets/advsearch.cpp" line="482"/>
         <source>Current file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="449"/>
+        <location filename="../src/widgets/advsearch.cpp" line="483"/>
         <source>Opened files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="450"/>
+        <location filename="../src/widgets/advsearch.cpp" line="484"/>
         <source>Files in File system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="453"/>
+        <location filename="../src/widgets/advsearch.cpp" line="487"/>
         <source>Directory:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="454"/>
+        <location filename="../src/widgets/advsearch.cpp" line="488"/>
         <source>Browse...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="455"/>
+        <location filename="../src/widgets/advsearch.cpp" line="489"/>
         <source>File pattern:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="456"/>
+        <location filename="../src/widgets/advsearch.cpp" line="490"/>
         <source>Exclusion pattern:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/widgets/advsearch.cpp" line="466"/>
+        <location filename="../src/widgets/advsearch.cpp" line="500"/>
         <source>By string</source>
         <translation type="unfinished"></translation>
     </message>
@@ -381,144 +380,144 @@ undone on closed files.</source>
 <context>
     <name>EInterface</name>
     <message>
-        <location filename="../src/interface/intf.cpp" line="269"/>
+        <location filename="../src/interface/intf.cpp" line="274"/>
         <source>Main</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="272"/>
+        <location filename="../src/interface/intf.cpp" line="277"/>
         <source>Extra</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="665"/>
+        <location filename="../src/interface/intf.cpp" line="614"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="665"/>
+        <location filename="../src/interface/intf.cpp" line="614"/>
         <source>Do you really want to close Fighter Factory?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="795"/>
+        <location filename="../src/interface/intf.cpp" line="750"/>
         <source>Editor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="796"/>
+        <location filename="../src/interface/intf.cpp" line="751"/>
         <source>Project explorer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="93"/>
+        <location filename="../src/interface/intf.cpp" line="1382"/>
         <source>Error %1!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="93"/>
+        <location filename="../src/interface/intf.cpp" line="1382"/>
         <source>Can&apos;t start the process &apos;%1&apos;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="804"/>
+        <location filename="../src/interface/intf.cpp" line="759"/>
         <source>New to Fighter Factory?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="805"/>
+        <location filename="../src/interface/intf.cpp" line="760"/>
         <source>Learn how to edit and create your own game and explore Fighter Factory Studio.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="806"/>
+        <location filename="../src/interface/intf.cpp" line="761"/>
         <source>Support us on Patreon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="807"/>
+        <location filename="../src/interface/intf.cpp" line="762"/>
         <source>Help us to make Fighter Factory Studio the ultimate editing software for the most popular 2D game engines.
 The software is a work of many years. A lot of contribution to the community we love!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="808"/>
+        <location filename="../src/interface/intf.cpp" line="763"/>
         <source>Recent Projects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="810"/>
+        <location filename="../src/interface/intf.cpp" line="765"/>
         <source>GET STARTED NOW</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="811"/>
+        <location filename="../src/interface/intf.cpp" line="766"/>
         <source>SUPPORT US NOW</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="812"/>
+        <location filename="../src/interface/intf.cpp" line="767"/>
         <source>Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="813"/>
+        <location filename="../src/interface/intf.cpp" line="768"/>
         <source>Remove selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="912"/>
+        <location filename="../src/interface/intf.cpp" line="875"/>
         <source>Open project...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="913"/>
+        <location filename="../src/interface/intf.cpp" line="876"/>
         <source>No recent projects. Open one now and start the fun!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="1092"/>
+        <location filename="../src/interface/intf.cpp" line="1055"/>
         <source>Reparsing... Please wait.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="1342"/>
-        <location filename="../src/interface/intf.cpp" line="1354"/>
-        <location filename="../src/interface/intf.cpp" line="1358"/>
+        <location filename="../src/interface/intf.cpp" line="1313"/>
+        <location filename="../src/interface/intf.cpp" line="1325"/>
+        <location filename="../src/interface/intf.cpp" line="1329"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="1342"/>
+        <location filename="../src/interface/intf.cpp" line="1313"/>
         <source>Error checking for updates!
 Update executable not found. Try reinstalling the program.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="1354"/>
+        <location filename="../src/interface/intf.cpp" line="1325"/>
         <source>Error checking for updates!
 The updater process failed to start. You may have insufficient permissions to invoke the program or something on your system is blocking it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="1358"/>
+        <location filename="../src/interface/intf.cpp" line="1329"/>
         <source>Error checking for updates!
 The updater process crashed some time after starting successfully.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="1370"/>
-        <location filename="../src/interface/intf.cpp" line="1374"/>
+        <location filename="../src/interface/intf.cpp" line="1341"/>
+        <location filename="../src/interface/intf.cpp" line="1345"/>
         <source>Update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="1370"/>
+        <location filename="../src/interface/intf.cpp" line="1341"/>
         <source>No updates available!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="1374"/>
+        <location filename="../src/interface/intf.cpp" line="1345"/>
         <source>Update available! Do you want to download and install it now?
 Note: This will close the appplication! Do not start the update process before closing or it will fail.</source>
         <translation type="unfinished"></translation>
@@ -549,47 +548,47 @@ Note: This will close the appplication! Do not start the update process before c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_proj.cpp" line="522"/>
-        <location filename="../src/interface/intf_proj.cpp" line="559"/>
+        <location filename="../src/interface/intf_proj.cpp" line="525"/>
+        <location filename="../src/interface/intf_proj.cpp" line="563"/>
         <source>Warning!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_proj.cpp" line="522"/>
-        <source>Oops, you can run only one instance of yhe engine at the same time.</source>
+        <location filename="../src/interface/intf_proj.cpp" line="525"/>
+        <source>Oops, you can run only one instance of the engine at the same time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_proj.cpp" line="559"/>
+        <location filename="../src/interface/intf_proj.cpp" line="563"/>
         <source>Oops, you need to add an engine first. Do it in Tools / Options.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_proj.cpp" line="565"/>
+        <location filename="../src/interface/intf_proj.cpp" line="571"/>
         <source>Error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_proj.cpp" line="565"/>
+        <location filename="../src/interface/intf_proj.cpp" line="571"/>
         <source>Executable not found!</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../src/interface/intf.cpp" line="1168"/>
+        <location filename="../src/interface/intf.cpp" line="1131"/>
         <source>%n error(s) found!</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../src/interface/intf.cpp" line="1168"/>
+        <location filename="../src/interface/intf.cpp" line="1131"/>
         <source>%n warnings found!</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../src/interface/intf.cpp" line="1168"/>
+        <location filename="../src/interface/intf.cpp" line="1131"/>
         <source>No issues found!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -599,53 +598,53 @@ Note: This will close the appplication! Do not start the update process before c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_menu.cpp" line="193"/>
+        <location filename="../src/interface/intf_menu.cpp" line="197"/>
         <source>Open project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_menu.cpp" line="212"/>
+        <location filename="../src/interface/intf_menu.cpp" line="216"/>
         <source>Open archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_menu.cpp" line="227"/>
+        <location filename="../src/interface/intf_menu.cpp" line="231"/>
         <source>Open file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_menu.cpp" line="283"/>
-        <location filename="../src/interface/intf_menu.cpp" line="284"/>
+        <location filename="../src/interface/intf_menu.cpp" line="287"/>
+        <location filename="../src/interface/intf_menu.cpp" line="288"/>
         <source>Save project as...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_menu.cpp" line="290"/>
+        <location filename="../src/interface/intf_menu.cpp" line="294"/>
         <source>Saving...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_menu.cpp" line="321"/>
+        <location filename="../src/interface/intf_menu.cpp" line="325"/>
         <source>Backup in progress...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_menu.cpp" line="331"/>
+        <location filename="../src/interface/intf_menu.cpp" line="335"/>
         <source>Restoring backup...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_menu.cpp" line="371"/>
+        <location filename="../src/interface/intf_menu.cpp" line="380"/>
         <source>Welcome</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_editor.cpp" line="259"/>
+        <location filename="../src/interface/intf_editor.cpp" line="255"/>
         <source>Nothing found!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/interface/intf_impl.cpp" line="458"/>
+        <location filename="../src/interface/intf_impl.cpp" line="487"/>
         <source>Project</source>
         <translation type="unfinished"></translation>
     </message>
@@ -673,72 +672,82 @@ Note: This will close the appplication! Do not start the update process before c
 <context>
     <name>EOptions</name>
     <message>
-        <location filename="../src/forms/options.cpp" line="247"/>
+        <location filename="../src/forms/options.cpp" line="87"/>
+        <source>DirectX (ANGLE)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/forms/options.cpp" line="88"/>
+        <source>Multi-threaded (in the background)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/forms/options.cpp" line="275"/>
         <source>Attention!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="247"/>
+        <location filename="../src/forms/options.cpp" line="275"/>
         <source>DPI scaling options will take effect after application restart!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="489"/>
+        <location filename="../src/forms/options.cpp" line="525"/>
         <source>Save history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="490"/>
+        <location filename="../src/forms/options.cpp" line="526"/>
         <source>Do you want to include file history too?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="520"/>
+        <location filename="../src/forms/options.cpp" line="556"/>
         <source>Open configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="531"/>
+        <location filename="../src/forms/options.cpp" line="567"/>
         <source>Save configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="550"/>
+        <location filename="../src/forms/options.cpp" line="586"/>
         <source>Sprite crosshair</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="557"/>
+        <location filename="../src/forms/options.cpp" line="593"/>
         <source>Animation crosshair</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="564"/>
+        <location filename="../src/forms/options.cpp" line="600"/>
         <source>Extra crosshair</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="577"/>
+        <location filename="../src/forms/options.cpp" line="613"/>
         <source>Background image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="637"/>
+        <location filename="../src/forms/options.cpp" line="673"/>
         <source>Save colorset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="637"/>
+        <location filename="../src/forms/options.cpp" line="673"/>
         <source>Colorset name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="657"/>
+        <location filename="../src/forms/options.cpp" line="693"/>
         <source>Author:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.cpp" line="658"/>
+        <location filename="../src/forms/options.cpp" line="694"/>
         <source>Contact:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -809,12 +818,12 @@ Note: This will close the appplication! Do not start the update process before c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/enginedlg.cpp" line="57"/>
+        <location filename="../src/forms/enginedlg.cpp" line="60"/>
         <source>Executable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/enginedlg.cpp" line="70"/>
+        <location filename="../src/forms/enginedlg.cpp" line="73"/>
         <source>Icon</source>
         <translation type="unfinished"></translation>
     </message>
@@ -834,12 +843,12 @@ Note: This will close the appplication! Do not start the update process before c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/actionman.cpp" line="557"/>
+        <location filename="../src/managers/actionman.cpp" line="571"/>
         <source>Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/actionman.cpp" line="558"/>
+        <location filename="../src/managers/actionman.cpp" line="572"/>
         <source>Keys</source>
         <translation type="unfinished"></translation>
     </message>
@@ -847,37 +856,37 @@ Note: This will close the appplication! Do not start the update process before c
 <context>
     <name>FFS::BreakpointManager</name>
     <message>
-        <location filename="../src/managers/breakpointman.cpp" line="151"/>
+        <location filename="../src/managers/breakpointman.cpp" line="152"/>
         <source>Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/breakpointman.cpp" line="152"/>
+        <location filename="../src/managers/breakpointman.cpp" line="153"/>
         <source>Function</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/breakpointman.cpp" line="153"/>
+        <location filename="../src/managers/breakpointman.cpp" line="154"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/breakpointman.cpp" line="154"/>
+        <location filename="../src/managers/breakpointman.cpp" line="155"/>
         <source>Line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/breakpointman.cpp" line="155"/>
+        <location filename="../src/managers/breakpointman.cpp" line="156"/>
         <source>Address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/breakpointman.cpp" line="156"/>
+        <location filename="../src/managers/breakpointman.cpp" line="157"/>
         <source>Condition</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/breakpointman.cpp" line="157"/>
+        <location filename="../src/managers/breakpointman.cpp" line="158"/>
         <source>Ignore</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1014,6 +1023,14 @@ Note: This will close the appplication! Do not start the update process before c
     </message>
 </context>
 <context>
+    <name>FFS::DebugEditor</name>
+    <message>
+        <location filename="../src/interface/debugger.cpp" line="26"/>
+        <source>Debug</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FFS::HistoryManager</name>
     <message>
         <location filename="../src/managers/historyman.cpp" line="135"/>
@@ -1040,7 +1057,7 @@ Note: This will close the appplication! Do not start the update process before c
     <name>FFS::Script</name>
     <message>
         <location filename="../src/managers/scriptman.cpp" line="74"/>
-        <location filename="../src/managers/scriptman_preset.cpp" line="51"/>
+        <location filename="../src/managers/scriptman_preset.cpp" line="69"/>
         <source>Warning!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1050,7 +1067,7 @@ Note: This will close the appplication! Do not start the update process before c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/scriptman_preset.cpp" line="51"/>
+        <location filename="../src/managers/scriptman_preset.cpp" line="69"/>
         <source>The action &apos;%1&apos; doesn&apos;t exists!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1063,17 +1080,17 @@ Note: This will close the appplication! Do not start the update process before c
 <context>
     <name>FFS::VarWatchManager</name>
     <message>
-        <location filename="../src/managers/varwatchman.cpp" line="79"/>
+        <location filename="../src/managers/varwatchman.cpp" line="83"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/varwatchman.cpp" line="80"/>
+        <location filename="../src/managers/varwatchman.cpp" line="84"/>
         <source>Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/managers/varwatchman.cpp" line="81"/>
+        <location filename="../src/managers/varwatchman.cpp" line="85"/>
         <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1211,32 +1228,32 @@ Note: This will close the appplication! Do not start the update process before c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1241"/>
+        <location filename="../src/forms/options.ui" line="1231"/>
         <source>˅</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1248"/>
+        <location filename="../src/forms/options.ui" line="1238"/>
         <source>Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1255"/>
+        <location filename="../src/forms/options.ui" line="1245"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1262"/>
+        <location filename="../src/forms/options.ui" line="1252"/>
         <source>Add</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1269"/>
+        <location filename="../src/forms/options.ui" line="1259"/>
         <source>Clear</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1288"/>
+        <location filename="../src/forms/options.ui" line="1278"/>
         <source>˄</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1363,284 +1380,274 @@ Note: This will close the appplication! Do not start the update process before c
     </message>
     <message>
         <location filename="../src/forms/options.ui" line="508"/>
-        <source>DirectX (ANGLE)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/forms/options.ui" line="513"/>
         <source>Native painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="521"/>
+        <location filename="../src/forms/options.ui" line="516"/>
         <source>This settings requires a program restart.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="531"/>
+        <location filename="../src/forms/options.ui" line="526"/>
         <source>Texture upload method:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="539"/>
+        <location filename="../src/forms/options.ui" line="534"/>
         <source>Immediate (may slow down loading)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="544"/>
+        <location filename="../src/forms/options.ui" line="539"/>
         <source>Delayed (on-demand)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="549"/>
-        <source>Multi-threaded (in the background)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/forms/options.ui" line="563"/>
+        <location filename="../src/forms/options.ui" line="553"/>
         <source>Crosshair:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="575"/>
-        <location filename="../src/forms/options.ui" line="890"/>
+        <location filename="../src/forms/options.ui" line="565"/>
+        <location filename="../src/forms/options.ui" line="880"/>
         <source>Default</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="591"/>
+        <location filename="../src/forms/options.ui" line="581"/>
         <source>Modern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="604"/>
-        <location filename="../src/forms/options.ui" line="800"/>
+        <location filename="../src/forms/options.ui" line="594"/>
+        <location filename="../src/forms/options.ui" line="790"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="611"/>
+        <location filename="../src/forms/options.ui" line="601"/>
         <source>Sprite:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="644"/>
+        <location filename="../src/forms/options.ui" line="634"/>
         <source>Animation:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="677"/>
+        <location filename="../src/forms/options.ui" line="667"/>
         <source>Extra:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="732"/>
+        <location filename="../src/forms/options.ui" line="722"/>
         <source>Onion Skin effect:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="739"/>
+        <location filename="../src/forms/options.ui" line="729"/>
         <source>Opacity:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="750"/>
-        <location filename="../src/forms/options.ui" line="900"/>
+        <location filename="../src/forms/options.ui" line="740"/>
+        <location filename="../src/forms/options.ui" line="890"/>
         <source>None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="755"/>
+        <location filename="../src/forms/options.ui" line="745"/>
         <source>Monochrome</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="760"/>
+        <location filename="../src/forms/options.ui" line="750"/>
         <source>Lighter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="765"/>
+        <location filename="../src/forms/options.ui" line="755"/>
         <source>Darker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="794"/>
+        <location filename="../src/forms/options.ui" line="784"/>
         <source>Background:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="841"/>
+        <location filename="../src/forms/options.ui" line="831"/>
         <source>X:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="864"/>
+        <location filename="../src/forms/options.ui" line="854"/>
         <source>Y:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="883"/>
+        <location filename="../src/forms/options.ui" line="873"/>
         <source>The position above is based on the sprite axis.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="921"/>
+        <location filename="../src/forms/options.ui" line="911"/>
         <source>Zoom mode:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="929"/>
+        <location filename="../src/forms/options.ui" line="919"/>
         <source>Small range (up to 4X)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="934"/>
+        <location filename="../src/forms/options.ui" line="924"/>
         <source>Large range (up to 8X)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="942"/>
+        <location filename="../src/forms/options.ui" line="932"/>
         <source>Contact box opacity:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="971"/>
+        <location filename="../src/forms/options.ui" line="961"/>
         <source>Center of zoom:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="979"/>
+        <location filename="../src/forms/options.ui" line="969"/>
         <source>Sprite&apos;s axis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="984"/>
+        <location filename="../src/forms/options.ui" line="974"/>
         <source>Center of workspace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="996"/>
+        <location filename="../src/forms/options.ui" line="986"/>
         <source>Sprite over guide lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1003"/>
+        <location filename="../src/forms/options.ui" line="993"/>
         <source>Contact box over axis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1012"/>
+        <location filename="../src/forms/options.ui" line="1002"/>
         <source>Invert sprite axis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1035"/>
+        <location filename="../src/forms/options.ui" line="1025"/>
         <source>Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1043"/>
+        <location filename="../src/forms/options.ui" line="1033"/>
         <source>Display:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1049"/>
+        <location filename="../src/forms/options.ui" line="1039"/>
         <source>Line numbers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1056"/>
+        <location filename="../src/forms/options.ui" line="1046"/>
         <source>Folding markers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1063"/>
+        <location filename="../src/forms/options.ui" line="1053"/>
         <source>Highlight current line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1070"/>
+        <location filename="../src/forms/options.ui" line="1060"/>
         <source>Highlight blocks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1077"/>
+        <location filename="../src/forms/options.ui" line="1067"/>
         <source>Parenthesis matching</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1084"/>
+        <location filename="../src/forms/options.ui" line="1074"/>
         <source>Current line navigation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1113"/>
+        <location filename="../src/forms/options.ui" line="1103"/>
         <source>Editor font:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1120"/>
+        <location filename="../src/forms/options.ui" line="1110"/>
         <source>Font size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1158"/>
+        <location filename="../src/forms/options.ui" line="1148"/>
         <source>Default code page:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1171"/>
+        <location filename="../src/forms/options.ui" line="1161"/>
         <source>Used when Universal Encoding Detector can&apos;t detect the code page.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1184"/>
+        <location filename="../src/forms/options.ui" line="1174"/>
         <source>Convert Tab to Spaces while opening</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1191"/>
+        <location filename="../src/forms/options.ui" line="1181"/>
         <source>Convert Spaces to Tab while saving</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1214"/>
+        <location filename="../src/forms/options.ui" line="1204"/>
         <source>Engine</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1220"/>
+        <location filename="../src/forms/options.ui" line="1210"/>
         <source>Run configurations:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1301"/>
+        <location filename="../src/forms/options.ui" line="1291"/>
         <source>Attention! All settings here auto apply when changed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1336"/>
+        <location filename="../src/forms/options.ui" line="1326"/>
         <source>Load defaults</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1362"/>
+        <location filename="../src/forms/options.ui" line="1352"/>
         <source>Open...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1375"/>
+        <location filename="../src/forms/options.ui" line="1365"/>
         <source>Save...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1388"/>
+        <location filename="../src/forms/options.ui" line="1378"/>
         <source>Apply</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/options.ui" line="1401"/>
+        <location filename="../src/forms/options.ui" line="1391"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1757,67 +1764,67 @@ Note: This will close the appplication! Do not start the update process before c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="260"/>
-        <location filename="../src/forms/paleditor.cpp" line="320"/>
+        <location filename="../src/forms/paleditor.cpp" line="262"/>
+        <location filename="../src/forms/paleditor.cpp" line="322"/>
         <source>Open palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="278"/>
+        <location filename="../src/forms/paleditor.cpp" line="280"/>
         <source>Save palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="306"/>
-        <location filename="../src/forms/paleditor.cpp" line="485"/>
-        <location filename="../src/forms/paleditor.cpp" line="523"/>
+        <location filename="../src/forms/paleditor.cpp" line="308"/>
+        <location filename="../src/forms/paleditor.cpp" line="487"/>
+        <location filename="../src/forms/paleditor.cpp" line="525"/>
         <source>Open image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="320"/>
+        <location filename="../src/forms/paleditor.cpp" line="322"/>
         <source>This image is color indexed. Do you want to load the palette?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="333"/>
+        <location filename="../src/forms/paleditor.cpp" line="335"/>
         <source>Generete optimized palette?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="334"/>
+        <location filename="../src/forms/paleditor.cpp" line="336"/>
         <source>This image isn&apos;t indexed. Do you want to generate an optimized palette for it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="345"/>
+        <location filename="../src/forms/paleditor.cpp" line="347"/>
         <source>Save image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="369"/>
+        <location filename="../src/forms/paleditor.cpp" line="371"/>
         <source>Start color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="372"/>
+        <location filename="../src/forms/paleditor.cpp" line="374"/>
         <source>End color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="380"/>
-        <location filename="../src/forms/paleditor.cpp" line="387"/>
-        <location filename="../src/forms/paleditor.cpp" line="403"/>
+        <location filename="../src/forms/paleditor.cpp" line="382"/>
+        <location filename="../src/forms/paleditor.cpp" line="389"/>
+        <location filename="../src/forms/paleditor.cpp" line="405"/>
         <source>Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="497"/>
+        <location filename="../src/forms/paleditor.cpp" line="499"/>
         <source>Generating palette... please wait!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/paleditor.cpp" line="532"/>
+        <location filename="../src/forms/paleditor.cpp" line="534"/>
         <source>Inserting palette in the images... please wait!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1851,62 +1858,62 @@ Note: This will close the appplication! Do not start the update process before c
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="94"/>
+        <location filename="../src/forms/scripted.cpp" line="95"/>
         <source>Message output</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="99"/>
+        <location filename="../src/forms/scripted.cpp" line="100"/>
         <source>Text output (debug)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="105"/>
+        <location filename="../src/forms/scripted.cpp" line="106"/>
         <source>All engines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="120"/>
+        <location filename="../src/forms/scripted.cpp" line="121"/>
         <source>Common</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="121"/>
+        <location filename="../src/forms/scripted.cpp" line="122"/>
         <source>Project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="122"/>
+        <location filename="../src/forms/scripted.cpp" line="123"/>
         <source>Code snippet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="123"/>
+        <location filename="../src/forms/scripted.cpp" line="124"/>
         <source>Tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="181"/>
+        <location filename="../src/forms/scripted.cpp" line="184"/>
         <source>Open script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="195"/>
+        <location filename="../src/forms/scripted.cpp" line="198"/>
         <source>Save script</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="248"/>
+        <location filename="../src/forms/scripted.cpp" line="251"/>
         <source>Error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="248"/>
+        <location filename="../src/forms/scripted.cpp" line="251"/>
         <source>You must save the script before use this function.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/scripted.cpp" line="250"/>
+        <location filename="../src/forms/scripted.cpp" line="253"/>
         <source>Save for translation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2788,77 +2795,93 @@ Choose &apos;No&apos; to skip it, or &apos;Ignore&apos; to insert as is (remembe
     </message>
     <message>
         <location filename="../src/forms/welcomedialog.ui" line="29"/>
+        <source>Neo Dark Flat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/forms/welcomedialog.ui" line="32"/>
+        <location filename="../src/forms/welcomedialog.ui" line="58"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/forms/welcomedialog.ui" line="55"/>
+        <source>Neo Light Flat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/forms/welcomedialog.ui" line="81"/>
         <source>Neo Dark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.ui" line="61"/>
+        <location filename="../src/forms/welcomedialog.ui" line="113"/>
         <source>Neo Light</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.ui" line="93"/>
+        <location filename="../src/forms/welcomedialog.ui" line="145"/>
         <source>Ultimate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.ui" line="125"/>
+        <location filename="../src/forms/welcomedialog.ui" line="177"/>
         <source>Classic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.ui" line="167"/>
+        <location filename="../src/forms/welcomedialog.ui" line="219"/>
         <source>Import from previous installation...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.ui" line="184"/>
+        <location filename="../src/forms/welcomedialog.ui" line="226"/>
         <source>Language:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.ui" line="204"/>
+        <location filename="../src/forms/welcomedialog.ui" line="243"/>
         <source>History</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.ui" line="214"/>
+        <location filename="../src/forms/welcomedialog.ui" line="259"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If you&apos;re using some previous version (prior to 3.6), you can import all configurations here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/forms/welcomedialog.ui" line="269"/>
         <source>Shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.ui" line="224"/>
-        <source>If you&apos;re using some previous version, you can import all configurations here.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/forms/welcomedialog.ui" line="234"/>
+        <location filename="../src/forms/welcomedialog.ui" line="279"/>
         <source>Configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.ui" line="246"/>
+        <location filename="../src/forms/welcomedialog.ui" line="291"/>
         <source>I&apos;M READY!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.cpp" line="63"/>
+        <location filename="../src/forms/welcomedialog.cpp" line="161"/>
         <source>Fighter Factory Studio Installation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.cpp" line="102"/>
-        <location filename="../src/forms/welcomedialog.cpp" line="104"/>
+        <location filename="../src/forms/welcomedialog.cpp" line="202"/>
+        <location filename="../src/forms/welcomedialog.cpp" line="204"/>
         <source>Import configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.cpp" line="102"/>
+        <location filename="../src/forms/welcomedialog.cpp" line="202"/>
         <source>Configuration successfully imported!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/forms/welcomedialog.cpp" line="104"/>
+        <location filename="../src/forms/welcomedialog.cpp" line="204"/>
         <source>Can&apos;t detect the installation in this directory!</source>
         <translation type="unfinished"></translation>
     </message>

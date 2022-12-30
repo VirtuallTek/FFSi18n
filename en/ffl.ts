@@ -85,7 +85,7 @@
 <context>
     <name>AnimImportDlg</name>
     <message>
-        <location filename="../src/dialogs/animimport.cpp" line="24"/>
+        <location filename="../src/dialogs/animimport.cpp" line="25"/>
         <source>Import sprites</source>
         <translation type="unfinished"></translation>
     </message>
@@ -109,12 +109,12 @@
 <context>
     <name>FF::AnimationEditor</name>
     <message>
-        <location filename="../src/animedit.cpp" line="1895"/>
+        <location filename="../src/animedit.cpp" line="1909"/>
         <source>Position: %1, %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1896"/>
+        <location filename="../src/animedit.cpp" line="1910"/>
         <source>Horizontal guide: %1, Vertical guide: %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -122,100 +122,100 @@
 <context>
     <name>FF::AnimationEditorPrivate</name>
     <message>
-        <location filename="../src/animedit.cpp" line="767"/>
+        <location filename="../src/animedit.cpp" line="781"/>
         <source>No animation found!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="802"/>
+        <location filename="../src/animedit.cpp" line="816"/>
         <source>Do you really want to delete the animation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="822"/>
+        <location filename="../src/animedit.cpp" line="836"/>
         <source>Do you want to define a new identifier?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="825"/>
+        <location filename="../src/animedit.cpp" line="839"/>
         <source>Duplicate animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="825"/>
+        <location filename="../src/animedit.cpp" line="839"/>
         <source>Identifier:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="859"/>
+        <location filename="../src/animedit.cpp" line="873"/>
         <source>You can&apos;t save an empty animation as GIF.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="955"/>
+        <location filename="../src/animedit.cpp" line="969"/>
         <source>Do you really want to delete the frame?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1161"/>
+        <location filename="../src/animedit.cpp" line="1175"/>
         <source>Confirmation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1161"/>
+        <location filename="../src/animedit.cpp" line="1175"/>
         <source>Do you really want to replicate Contact boxes of current frame in all its instances?
 All existing Contact boxes in these frames will be replaced.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1189"/>
+        <location filename="../src/animedit.cpp" line="1203"/>
         <source>Optimize done!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1190"/>
+        <location filename="../src/animedit.cpp" line="1204"/>
         <source>Code clean, and %1 line(s) were removed in the optimization!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1239"/>
+        <location filename="../src/animedit.cpp" line="1253"/>
         <source>Exporting animations...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1289"/>
+        <location filename="../src/animedit.cpp" line="1303"/>
         <source>Importing animations...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1333"/>
+        <location filename="../src/animedit.cpp" line="1347"/>
         <source>Conflict resolution!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1334"/>
+        <location filename="../src/animedit.cpp" line="1348"/>
         <source>Animation &apos;%1&apos; already exists, do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../src/animedit.cpp" line="1429"/>
+        <location filename="../src/animedit.cpp" line="1443"/>
         <source>%n animation(s) were imported!</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1429"/>
+        <location filename="../src/animedit.cpp" line="1443"/>
         <source>No animation imported!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1433"/>
+        <location filename="../src/animedit.cpp" line="1447"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/animedit.cpp" line="1433"/>
+        <location filename="../src/animedit.cpp" line="1447"/>
         <source>You can&apos;t import from the destination project!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -223,37 +223,37 @@ All existing Contact boxes in these frames will be replaced.</source>
 <context>
     <name>FF::CodeFileEditor</name>
     <message>
-        <location filename="../src/codeedit.cpp" line="170"/>
+        <location filename="../src/codeedit.cpp" line="161"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/codeedit.cpp" line="171"/>
+        <location filename="../src/codeedit.cpp" line="162"/>
         <source>Cut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/codeedit.cpp" line="172"/>
+        <location filename="../src/codeedit.cpp" line="163"/>
         <source>Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/codeedit.cpp" line="173"/>
+        <location filename="../src/codeedit.cpp" line="164"/>
         <source>Paste before</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/codeedit.cpp" line="174"/>
+        <location filename="../src/codeedit.cpp" line="165"/>
         <source>Paste after</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/codeedit.cpp" line="270"/>
+        <location filename="../src/codeedit.cpp" line="267"/>
         <source>Line: %1, Column: %2, Line count: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/codeedit.cpp" line="271"/>
+        <location filename="../src/codeedit.cpp" line="268"/>
         <source>Syntax error count: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -261,7 +261,7 @@ All existing Contact boxes in these frames will be replaced.</source>
 <context>
     <name>FF::CodeWorkspacePrivate</name>
     <message>
-        <location filename="../src/codework.cpp" line="389"/>
+        <location filename="../src/codework.cpp" line="379"/>
         <source>Invalid line! Do you want go to the last line?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -290,18 +290,18 @@ All existing Contact boxes in these frames will be replaced.</source>
 <context>
     <name>FF::EnginePrivate</name>
     <message>
-        <location filename="../src/engine.cpp" line="236"/>
-        <location filename="../src/engine.cpp" line="259"/>
+        <location filename="../src/engine.cpp" line="238"/>
+        <location filename="../src/engine.cpp" line="261"/>
         <source>Configuration error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="236"/>
+        <location filename="../src/engine.cpp" line="238"/>
         <source>Can&apos;t open engine configuration from &apos;%1&apos;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="259"/>
+        <location filename="../src/engine.cpp" line="261"/>
         <source>Can&apos;t save engine configuration to &apos;%1&apos;!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -370,12 +370,12 @@ Note: As copy, we keep the reference to the previous file!</source>
 <context>
     <name>FF::FileWatcherManager</name>
     <message>
-        <location filename="../src/watch.h" line="59"/>
+        <location filename="../src/watch.h" line="58"/>
         <source>File modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/watch.h" line="60"/>
+        <location filename="../src/watch.h" line="59"/>
         <source>The file &apos;%1&apos; has been modified. Do you want to reload all other instances of this file now?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -399,7 +399,7 @@ Note: As copy, we keep the reference to the previous file!</source>
 <context>
     <name>FF::OrganizerEditor</name>
     <message>
-        <location filename="../src/organizer.cpp" line="100"/>
+        <location filename="../src/organizer.cpp" line="104"/>
         <source>Organizer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -407,12 +407,12 @@ Note: As copy, we keep the reference to the previous file!</source>
 <context>
     <name>FF::OrganizerEditorPrivate</name>
     <message>
-        <location filename="../src/organizer.cpp" line="151"/>
+        <location filename="../src/organizer.cpp" line="155"/>
         <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/organizer.cpp" line="151"/>
+        <location filename="../src/organizer.cpp" line="155"/>
         <source>Do you really want to delete the selected item(s)?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -420,37 +420,37 @@ Note: As copy, we keep the reference to the previous file!</source>
 <context>
     <name>FF::PaletteEditorPrivate</name>
     <message>
-        <location filename="../src/paletteedit.cpp" line="336"/>
+        <location filename="../src/paletteedit.cpp" line="339"/>
         <source>Add palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/paletteedit.cpp" line="336"/>
+        <location filename="../src/paletteedit.cpp" line="339"/>
         <source>Do you want to load the palettes from files?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/paletteedit.cpp" line="338"/>
+        <location filename="../src/paletteedit.cpp" line="341"/>
         <source>Add palettes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/paletteedit.cpp" line="386"/>
+        <location filename="../src/paletteedit.cpp" line="389"/>
         <source>Delete palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/paletteedit.cpp" line="386"/>
+        <location filename="../src/paletteedit.cpp" line="389"/>
         <source>Do you really want to delete the palette?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/paletteedit.cpp" line="438"/>
+        <location filename="../src/paletteedit.cpp" line="441"/>
         <source>Saving palettes...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/paletteedit.cpp" line="503"/>
+        <location filename="../src/paletteedit.cpp" line="506"/>
         <source>Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -458,12 +458,12 @@ Note: As copy, we keep the reference to the previous file!</source>
 <context>
     <name>FF::ParentProject</name>
     <message>
-        <location filename="../src/project.cpp" line="1179"/>
+        <location filename="../src/project.cpp" line="1011"/>
         <source>Saving...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="1200"/>
+        <location filename="../src/project.cpp" line="1032"/>
         <source>Saving</source>
         <translation type="unfinished"></translation>
     </message>
@@ -471,12 +471,12 @@ Note: As copy, we keep the reference to the previous file!</source>
 <context>
     <name>FF::RootCode</name>
     <message>
-        <location filename="../src/code.cpp" line="423"/>
+        <location filename="../src/code.cpp" line="380"/>
         <source>Frame %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code.cpp" line="423"/>
+        <location filename="../src/code.cpp" line="380"/>
         <source>Frame - %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -484,67 +484,77 @@ Note: As copy, we keep the reference to the previous file!</source>
 <context>
     <name>FF::SoundEditor</name>
     <message>
-        <location filename="../src/soundedit.cpp" line="569"/>
+        <location filename="../src/soundedit.cpp" line="880"/>
         <source>Volume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/soundedit.cpp" line="1088"/>
+        <source>Discard changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/soundedit.cpp" line="1089"/>
+        <source>Do you want to discard the changes made in the current sound?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FF::SoundEditorPrivate</name>
     <message>
-        <location filename="../src/soundedit.cpp" line="106"/>
-        <source>Sample: %1/%2</source>
+        <location filename="../src/soundedit.cpp" line="223"/>
+        <source>Sample: %1/%2, Selection: %3/%4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="107"/>
-        <source>Time: %1/%2</source>
+        <location filename="../src/soundedit.cpp" line="226"/>
+        <source>Time: %1/%2s, Selection: %3/%4s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="110"/>
+        <location filename="../src/soundedit.cpp" line="233"/>
         <source>Sample: ---/---</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="111"/>
+        <location filename="../src/soundedit.cpp" line="234"/>
         <source>Time: ---/---</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="118"/>
-        <location filename="../src/soundedit.cpp" line="119"/>
-        <location filename="../src/soundedit.cpp" line="120"/>
+        <location filename="../src/soundedit.cpp" line="241"/>
+        <location filename="../src/soundedit.cpp" line="242"/>
+        <location filename="../src/soundedit.cpp" line="243"/>
         <source>Status: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="118"/>
+        <location filename="../src/soundedit.cpp" line="241"/>
         <source>Playing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="119"/>
+        <location filename="../src/soundedit.cpp" line="242"/>
         <source>Paused</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="120"/>
+        <location filename="../src/soundedit.cpp" line="243"/>
         <source>Stopped</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="152"/>
+        <location filename="../src/soundedit.cpp" line="308"/>
         <source>Stereo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="152"/>
+        <location filename="../src/soundedit.cpp" line="308"/>
         <source>Mono</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="153"/>
+        <location filename="../src/soundedit.cpp" line="309"/>
         <source>Channels: %1 (%2)
 Sample rate: %3 Hz
 Bits per sample: %4 bits
@@ -553,7 +563,7 @@ Tick count: %6 at 60Hz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="159"/>
+        <location filename="../src/soundedit.cpp" line="315"/>
         <source>Channels: ---
 Sample rate: ---
 Bits per sample: ---
@@ -562,44 +572,44 @@ Tick count: ---</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="256"/>
+        <location filename="../src/soundedit.cpp" line="461"/>
         <source>Do you really want to delete the sound?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="304"/>
+        <location filename="../src/soundedit.cpp" line="509"/>
         <source>Resampling...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="484"/>
+        <location filename="../src/soundedit.cpp" line="695"/>
         <source>Conflict resolution!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="485"/>
+        <location filename="../src/soundedit.cpp" line="696"/>
         <source>Sound &apos;%1&apos; already exists, do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../src/soundedit.cpp" line="516"/>
+        <location filename="../src/soundedit.cpp" line="727"/>
         <source>%n sound(s) were imported!</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="516"/>
+        <location filename="../src/soundedit.cpp" line="727"/>
         <source>No sound imported!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="520"/>
+        <location filename="../src/soundedit.cpp" line="731"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/soundedit.cpp" line="520"/>
+        <location filename="../src/soundedit.cpp" line="731"/>
         <source>You can&apos;t import from the destination project!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -607,17 +617,17 @@ Tick count: ---</source>
 <context>
     <name>FF::SpriteEditor</name>
     <message>
-        <location filename="../src/spriteedit.cpp" line="1331"/>
+        <location filename="../src/spriteedit.cpp" line="1339"/>
         <source>Layer %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="1509"/>
+        <location filename="../src/spriteedit.cpp" line="1517"/>
         <source>Discard changes?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="1510"/>
+        <location filename="../src/spriteedit.cpp" line="1518"/>
         <source>Do you want to discard the changes made in the current sprite?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -625,64 +635,64 @@ Tick count: ---</source>
 <context>
     <name>FF::SpriteEditorPrivate</name>
     <message>
-        <location filename="../src/spriteedit.cpp" line="446"/>
+        <location filename="../src/spriteedit.cpp" line="451"/>
         <source>Layer %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="472"/>
+        <location filename="../src/spriteedit.cpp" line="477"/>
         <source>%1 copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="559"/>
+        <location filename="../src/spriteedit.cpp" line="564"/>
         <source>Replace sprite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="560"/>
+        <location filename="../src/spriteedit.cpp" line="565"/>
         <source>The sprite %1 already exists. Do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="818"/>
+        <location filename="../src/spriteedit.cpp" line="823"/>
         <source>Do you really want to delete the sprite?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="858"/>
+        <location filename="../src/spriteedit.cpp" line="863"/>
         <source>Do you want to crop the image?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="1027"/>
+        <location filename="../src/spriteedit.cpp" line="1032"/>
         <source>Conflict resolution!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="1028"/>
+        <location filename="../src/spriteedit.cpp" line="1033"/>
         <source>Sprite &apos;%1&apos; already exists, do you want to replace it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../src/spriteedit.cpp" line="1060"/>
+        <location filename="../src/spriteedit.cpp" line="1065"/>
         <source>%n new sprite(s) were imported!</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="1060"/>
+        <location filename="../src/spriteedit.cpp" line="1065"/>
         <source>No new sprite imported!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="1064"/>
+        <location filename="../src/spriteedit.cpp" line="1069"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spriteedit.cpp" line="1064"/>
+        <location filename="../src/spriteedit.cpp" line="1069"/>
         <source>You can&apos;t import from the destination project!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -698,17 +708,17 @@ Tick count: ---</source>
 <context>
     <name>FF::VariablesModel</name>
     <message>
-        <location filename="../src/engine.cpp" line="16"/>
+        <location filename="../src/engine.cpp" line="17"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="17"/>
+        <location filename="../src/engine.cpp" line="18"/>
         <source>Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="18"/>
+        <location filename="../src/engine.cpp" line="19"/>
         <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1255,13 +1265,13 @@ This will make the editor display characters using this encoding, otherwise char
     </message>
     <message>
         <location filename="../src/translator.cpp" line="137"/>
-        <location filename="../src/translator.cpp" line="304"/>
+        <location filename="../src/translator.cpp" line="328"/>
         <source>Previous sprite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="138"/>
-        <location filename="../src/translator.cpp" line="305"/>
+        <location filename="../src/translator.cpp" line="329"/>
         <source>Next sprite</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1272,6 +1282,7 @@ This will make the editor display characters using this encoding, otherwise char
     </message>
     <message>
         <location filename="../src/translator.cpp" line="140"/>
+        <location filename="../src/translator.cpp" line="218"/>
         <source>Move selection</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1282,6 +1293,7 @@ This will make the editor display characters using this encoding, otherwise char
     </message>
     <message>
         <location filename="../src/translator.cpp" line="142"/>
+        <location filename="../src/translator.cpp" line="216"/>
         <source>Free selection</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1486,592 +1498,687 @@ This will make the editor display characters using this encoding, otherwise char
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/translator.cpp" line="196"/>
-        <source>Previous sound</source>
+        <location filename="../src/translator.cpp" line="192"/>
+        <source>Pause</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="197"/>
+        <source>Previous sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="198"/>
         <source>Next sound</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/translator.cpp" line="199"/>
-        <source>Organizer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="200"/>
-        <source>Move one position up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="201"/>
-        <source>Move one position down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/translator.cpp" line="202"/>
-        <source>Move ten positions up</source>
+        <source>Remove selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="203"/>
-        <source>Move ten positions down</source>
+        <source>Fill silence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="204"/>
-        <source>Move to the top</source>
+        <source>Fade in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="205"/>
-        <source>Move to the bottom</source>
+        <source>Fade out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="206"/>
-        <source>Organize automatically</source>
+        <source>Save changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="207"/>
+        <source>Discard changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="208"/>
-        <source>Sprite explorer</source>
+        <source>Effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="209"/>
-        <source>Add selected to the current animation</source>
+        <source>Selection:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="210"/>
-        <source>Add all to the current animation</source>
+        <source>Start:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="211"/>
-        <source>New animation with selected</source>
+        <source>End:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="212"/>
-        <source>New animation with all</source>
+        <source>Selection start:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="213"/>
-        <source>Add selected as layers</source>
+        <source>Selection end:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="214"/>
-        <source>Add all as layers</source>
+        <source>Current sample:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="215"/>
-        <source>Add selected as layers (aligned)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="216"/>
-        <source>Add all as layers (aligned)</source>
+        <source>Move view offset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="217"/>
-        <source>Save selected images</source>
+        <source>Zoom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="219"/>
-        <source>Emulator</source>
+        <source>Horizontal resizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="220"/>
+        <source>Vertical resizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="221"/>
+        <source>Wave draw tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="223"/>
+        <source>Organizer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="224"/>
+        <source>Move one position up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="225"/>
+        <source>Move one position down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="226"/>
+        <source>Move ten positions up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="227"/>
+        <source>Move ten positions down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="228"/>
+        <source>Move to the top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="229"/>
-        <source>Show/Hide the code toolbar in all code editors</source>
+        <source>Move to the bottom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="230"/>
-        <source>Place the origin at the center of the workspace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="231"/>
-        <source>Show/Hide the main cross</source>
+        <source>Organize automatically</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="232"/>
-        <source>Show/Hide the secondary cross</source>
+        <source>Sprite explorer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="233"/>
-        <source>Show/Hide the extra cross</source>
+        <source>Add selected to the current animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="234"/>
-        <source>Show/Hide the Rulers</source>
+        <source>Add all to the current animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="235"/>
-        <source>Show/Hide the Guide lines</source>
+        <source>New animation with selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="236"/>
-        <source>Show/Hide the Attack contact boxes</source>
+        <source>New animation with all</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="237"/>
-        <source>Show/Hide the Collision contact boxes</source>
+        <source>Add selected as layers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="238"/>
+        <source>Add all as layers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="239"/>
-        <source>Insert the current code snippet</source>
+        <source>Add selected as layers (aligned)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="240"/>
-        <source>Create a new code snippet</source>
+        <source>Add all as layers (aligned)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="241"/>
-        <source>Edit the current code snippet</source>
+        <source>Save selected images</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="243"/>
-        <source>Go to the specifed line</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="244"/>
-        <source>Go to the previous syntax error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="245"/>
-        <source>Go to the next syntax error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="246"/>
-        <source>Go to the previous deprecation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="247"/>
-        <source>Go to the next deprecation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="248"/>
-        <source>Comment/Uncomment all selected lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="249"/>
-        <source>Auto-indent selected lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="250"/>
-        <source>Auto-format selected lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="251"/>
-        <source>Selects the file encoding</source>
+        <source>Emulator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="253"/>
-        <source>Remove all palettes</source>
+        <source>Show/Hide the code toolbar in all code editors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="254"/>
-        <source>Remove all unused palettes</source>
+        <source>Place the origin at the center of the workspace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="255"/>
-        <source>Add one or more palettes</source>
+        <source>Show/Hide the main cross</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="256"/>
-        <source>Remove the current palette</source>
+        <source>Show/Hide the secondary cross</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="257"/>
-        <source>Remove all duplicate palettes</source>
+        <source>Show/Hide the extra cross</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="258"/>
-        <source>Define new colors to the palette from a file...</source>
+        <source>Show/Hide the Rulers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="259"/>
-        <source>Save the palette as a file...</source>
+        <source>Show/Hide the Guide lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="260"/>
-        <source>Open the palette Remap tool</source>
+        <source>Show/Hide the Attack contact boxes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="261"/>
-        <source>Apply the current palette to the specified sprites</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="262"/>
-        <source>Open palette from a file...</source>
+        <source>Show/Hide the Collision contact boxes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="263"/>
-        <source>Save current palette to a new file...</source>
+        <source>Insert the current code snippet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="264"/>
+        <source>Create a new code snippet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="265"/>
-        <source>Edit animation code in code editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="266"/>
-        <source>Add a new animation</source>
+        <source>Edit the current code snippet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="267"/>
-        <source>Remove the current animation</source>
+        <source>Go to the specifed line</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="268"/>
-        <source>Duplicate the current animation</source>
+        <source>Go to the previous syntax error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="269"/>
-        <source>Edit the code of current animation</source>
+        <source>Go to the next syntax error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="270"/>
-        <source>Save the current animation as an animated GIF...</source>
+        <source>Go to the previous deprecation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="271"/>
-        <source>Play the current animation</source>
+        <source>Go to the next deprecation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="272"/>
-        <source>Stop the animation</source>
+        <source>Comment/Uncomment all selected lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="273"/>
-        <source>Move the sprite 1px to the left</source>
+        <source>Auto-indent selected lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="274"/>
-        <source>Move the sprite 1px up</source>
+        <source>Auto-format selected lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="275"/>
-        <source>Move the sprite 1px to the right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="276"/>
-        <source>Move the sprite 1px down</source>
+        <source>Selects the file encoding</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="277"/>
-        <source>Add a new frame in the animation</source>
+        <source>Remove all palettes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="278"/>
-        <source>Remove the current frame</source>
+        <source>Remove all unused palettes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="279"/>
-        <source>Enable/disable the drawing mode for Attack contact box</source>
+        <source>Add one or more palettes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="280"/>
-        <source>Enable/disable the drawing mode for Collision contact box</source>
+        <source>Remove the current palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="281"/>
-        <source>Remove all selected Contact boxes</source>
+        <source>Remove all duplicate palettes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="282"/>
-        <source>Remove all Contact boxes of current frame</source>
+        <source>Define new colors to the palette from a file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="283"/>
-        <source>Remove all Contact boxs of current animation</source>
+        <source>Save the palette as a file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="284"/>
-        <source>Switch type of all selected Contact boxes</source>
+        <source>Open the palette Remap tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="285"/>
-        <source>Copy all Contact boxes of previous frame</source>
+        <source>Apply the current palette to the specified sprites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="286"/>
-        <source>Optimize animation code</source>
+        <source>Open palette from a file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="287"/>
-        <source>Export one or more animations to file system...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="288"/>
-        <source>Import one or more animations from file system...</source>
+        <source>Save current palette to a new file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="289"/>
-        <source>Import one or more animations from another opened project...</source>
+        <source>Edit animation code in code editor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="290"/>
-        <source>Enable OnionSkin</source>
+        <source>Add a new animation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="291"/>
+        <source>Remove the current animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="292"/>
-        <source>Add one or more sprites</source>
+        <source>Duplicate the current animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="293"/>
-        <source>Remove the current sprite</source>
+        <source>Edit the code of current animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="294"/>
-        <source>Change the image of the sprite from a file...</source>
+        <source>Save the current animation as an animated GIF...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="295"/>
-        <source>Save changes on current sprite</source>
+        <source>Play the current animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="296"/>
-        <source>Save one or more sprites as image files...</source>
+        <source>Stop the animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="297"/>
-        <source>Remove free borders from the current sprite</source>
+        <source>Move the sprite 1px to the left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="298"/>
-        <source>Split the RGB channels of the current sprite as separate sprites</source>
+        <source>Move the sprite 1px up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="299"/>
-        <source>Duplicate the current sprite</source>
+        <source>Move the sprite 1px to the right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="300"/>
-        <source>Export one or more sprites to file system...</source>
+        <source>Move the sprite 1px down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="301"/>
-        <source>Import one or more sprites from file system...</source>
+        <source>Add a new frame in the animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="302"/>
-        <source>Import one or more sprites from another opened project...</source>
+        <source>Remove the current frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="303"/>
-        <source>Switch to the sprite of the current frame</source>
+        <source>Enable/disable the drawing mode for Attack contact box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="304"/>
+        <source>Enable/disable the drawing mode for Collision contact box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="305"/>
+        <source>Remove all selected Contact boxes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="306"/>
-        <source>Add a new layer</source>
+        <source>Remove all Contact boxes of current frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="307"/>
-        <source>Remove the current layer</source>
+        <source>Remove all Contact boxs of current animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="308"/>
-        <source>Duplicate the current layer</source>
+        <source>Switch type of all selected Contact boxes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="309"/>
-        <source>Merge all visible layers into one</source>
+        <source>Copy all Contact boxes of previous frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="310"/>
-        <source>Merge all layers into one</source>
+        <source>Optimize animation code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="311"/>
-        <source>Split the viewport with the Original size at left</source>
+        <source>Export one or more animations to file system...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="312"/>
-        <source>Canvas properties (format and size)</source>
+        <source>Import one or more animations from file system...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="313"/>
-        <source>Resize all layers</source>
+        <source>Import one or more animations from another opened project...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="314"/>
-        <source>Rotate all layers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="315"/>
-        <source>Flip all layers horizontally</source>
+        <source>Enable OnionSkin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="316"/>
-        <source>Flip all layers vertically</source>
+        <source>Add one or more sprites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="317"/>
-        <source>Select the entire canvas</source>
+        <source>Remove the current sprite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="318"/>
-        <source>Clear any selection</source>
+        <source>Change the image of the sprite from a file...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="319"/>
-        <source>Invert the current selection</source>
+        <source>Save changes on current sprite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="320"/>
-        <source>Switch the current palette to the palette of the sprite</source>
+        <source>Save one or more sprites as image files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="321"/>
+        <source>Remove free borders from the current sprite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="322"/>
-        <source>Add one or more sounds</source>
+        <source>Split the RGB channels of the current sprite as separate sprites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="323"/>
-        <source>Remove the current sound</source>
+        <source>Duplicate the current sprite</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="324"/>
-        <source>Change the current sound from a file...</source>
+        <source>Export one or more sprites to file system...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="325"/>
-        <source>Save the sound as WAV...</source>
+        <source>Import one or more sprites from file system...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="326"/>
-        <source>Duplicate the current sound</source>
+        <source>Import one or more sprites from another opened project...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="327"/>
-        <source>Resample one or more sounds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="328"/>
-        <source>Play the current sound</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/translator.cpp" line="329"/>
-        <source>Play the current sound with infinite loop</source>
+        <source>Switch to the sprite of the current frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="330"/>
-        <source>Stop the sound</source>
+        <source>Add a new layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="331"/>
-        <source>Export one or more sounds to file system...</source>
+        <source>Remove the current layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="332"/>
-        <source>Import one or more sounds from file system...</source>
+        <source>Duplicate the current layer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/translator.cpp" line="333"/>
+        <source>Merge all visible layers into one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="334"/>
+        <source>Merge all layers into one</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="335"/>
+        <source>Split the viewport with the Original size at left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="336"/>
+        <source>Canvas properties (format and size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="337"/>
+        <source>Resize all layers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="338"/>
+        <source>Rotate all layers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="339"/>
+        <source>Flip all layers horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="340"/>
+        <source>Flip all layers vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="341"/>
+        <source>Select the entire canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="342"/>
+        <source>Clear any selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="343"/>
+        <source>Invert the current selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="344"/>
+        <source>Switch the current palette to the palette of the sprite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="346"/>
+        <source>Add one or more sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="347"/>
+        <source>Remove the current sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="348"/>
+        <source>Change the current sound from a file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="349"/>
+        <source>Save the sound as WAV...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="350"/>
+        <source>Duplicate the current sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="351"/>
+        <source>Resample one or more sounds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="352"/>
+        <source>Play the current sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="353"/>
+        <source>Play the current sound with infinite loop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="354"/>
+        <source>Stop the sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="355"/>
+        <source>Export one or more sounds to file system...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="356"/>
+        <source>Import one or more sounds from file system...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/translator.cpp" line="357"/>
         <source>Import one or more sounds from another opened project...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2130,7 +2237,7 @@ Obs.: You can remove it manually. Seems that something is preventing the file to
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/gifdialog.cpp" line="24"/>
+        <location filename="../src/dialogs/gifdialog.cpp" line="26"/>
         <source>Scale: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2381,7 +2488,7 @@ Obs.: You can remove it manually. Seems that something is preventing the file to
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/renderwidget.cpp" line="126"/>
+        <location filename="../src/renderwidget.cpp" line="138"/>
         <source>Native painter</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2417,66 +2524,6 @@ Obs.: You can remove it manually. Seems that something is preventing the file to
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="28"/>
-        <source>8000 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="33"/>
-        <source>11000 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="38"/>
-        <source>11025 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="43"/>
-        <source>12000 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="48"/>
-        <source>16000 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="53"/>
-        <source>22050 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="58"/>
-        <source>24000 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="63"/>
-        <source>32000 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="68"/>
-        <source>44100 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="73"/>
-        <source>48000 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="78"/>
-        <source>96000 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="83"/>
-        <source>192000 Hz</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/dialogs/resampledlg.ui" line="91"/>
         <source>Sample rate:</source>
         <translation type="unfinished"></translation>
@@ -2499,16 +2546,6 @@ Obs.: You can remove it manually. Seems that something is preventing the file to
     <message>
         <location filename="../src/dialogs/resampledlg.ui" line="118"/>
         <source>Stereo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="127"/>
-        <source>8 bits</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/resampledlg.ui" line="132"/>
-        <source>16 bits</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2554,16 +2591,6 @@ Obs.: You can remove it manually. Seems that something is preventing the file to
         <source>Bilinear</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../src/dialogs/rotimgdlg.ui" line="67"/>
-        <source>EPX</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/rotimgdlg.ui" line="72"/>
-        <source>HQ</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>SnipDlg</name>
@@ -2584,7 +2611,7 @@ Obs.: You can remove it manually. Seems that something is preventing the file to
     </message>
     <message>
         <location filename="../src/dialogs/snipdlg.ui" line="60"/>
-        <location filename="../src/dialogs/snipdlg.cpp" line="181"/>
+        <location filename="../src/dialogs/snipdlg.cpp" line="184"/>
         <source>Save for translation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2614,7 +2641,7 @@ Obs.: You can remove it manually. Seems that something is preventing the file to
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/snipdlg.cpp" line="161"/>
+        <location filename="../src/dialogs/snipdlg.cpp" line="164"/>
         <source>Save code snippet</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2675,22 +2702,22 @@ Obs.: You can remove it manually. Seems that something is preventing the file to
 <context>
     <name>SprImport</name>
     <message>
-        <location filename="../src/dialogs/sprimport.cpp" line="26"/>
+        <location filename="../src/dialogs/sprimport.cpp" line="27"/>
         <source>Image&apos;s palette, if not already added</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/sprimport.cpp" line="27"/>
+        <location filename="../src/dialogs/sprimport.cpp" line="28"/>
         <source>Force the specified palette (adapt the image)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/sprimport.cpp" line="28"/>
+        <location filename="../src/dialogs/sprimport.cpp" line="29"/>
         <source>Exchange with the specified palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/sprimport.cpp" line="36"/>
+        <location filename="../src/dialogs/sprimport.cpp" line="37"/>
         <source>Palette:</source>
         <translation type="unfinished"></translation>
     </message>

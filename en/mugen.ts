@@ -143,16 +143,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/addspr.ui" line="276"/>
-        <source>X:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/addspr.ui" line="305"/>
-        <source>Y:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../src/dialogs/addspr.ui" line="351"/>
         <source>Palette:</source>
         <translation type="unfinished"></translation>
@@ -196,12 +186,12 @@
 <context>
     <name>CommandsList</name>
     <message>
-        <location filename="../src/dialogs/exphtmldlg.cpp" line="73"/>
+        <location filename="../src/dialogs/exphtmldlg.cpp" line="74"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/exphtmldlg.cpp" line="74"/>
+        <location filename="../src/dialogs/exphtmldlg.cpp" line="75"/>
         <source>Command</source>
         <translation type="unfinished"></translation>
     </message>
@@ -372,12 +362,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/exphtmldlg.cpp" line="185"/>
+        <location filename="../src/dialogs/exphtmldlg.cpp" line="188"/>
         <source>Exporting HTML...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/exphtmldlg.cpp" line="193"/>
+        <location filename="../src/dialogs/exphtmldlg.cpp" line="196"/>
         <source>Color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -385,32 +375,32 @@
 <context>
     <name>MBackgroundEditor</name>
     <message>
-        <location filename="../src/bg_editor.cpp" line="241"/>
+        <location filename="../src/bg_editor.cpp" line="232"/>
         <source>Native painter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/bg_editor.cpp" line="765"/>
+        <location filename="../src/bg_editor.cpp" line="832"/>
         <source>Position: %1, %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/bg_editor.cpp" line="766"/>
+        <location filename="../src/bg_editor.cpp" line="833"/>
         <source>Horizontal guide: %1, Vertical guide: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/bg_editor.cpp" line="1576"/>
+        <location filename="../src/bg_editor.cpp" line="1670"/>
         <source>No BGDef!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/bg_editor.cpp" line="1576"/>
+        <location filename="../src/bg_editor.cpp" line="1670"/>
         <source>A Background element cannot be added because there&apos;s no BGDef!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/bg_editor.cpp" line="1587"/>
+        <location filename="../src/bg_editor.cpp" line="1681"/>
         <source>Do you really want to delete the background?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -418,100 +408,100 @@
 <context>
     <name>MCodeFile</name>
     <message>
-        <location filename="../src/code.cpp" line="1409"/>
+        <location filename="../src/code.cpp" line="1403"/>
         <source>Duplicate parameter &apos;%1&apos; on group &apos;%2&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code.cpp" line="1489"/>
+        <location filename="../src/code.cpp" line="1483"/>
         <source>Unknown parameter type &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code.cpp" line="1549"/>
+        <location filename="../src/code.cpp" line="1543"/>
         <source>Can&apos;t read the M.U.G.E.N. synyax descriptor file!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="380"/>
-        <location filename="../src/code_parse.cpp" line="396"/>
+        <location filename="../src/code_parse.cpp" line="372"/>
+        <location filename="../src/code_parse.cpp" line="388"/>
         <source>Block invalid for the type of the current project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="500"/>
+        <location filename="../src/code_parse.cpp" line="492"/>
         <source>You should not be naming this type of block</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="566"/>
+        <location filename="../src/code_parse.cpp" line="559"/>
         <source>Invalid block %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="572"/>
+        <location filename="../src/code_parse.cpp" line="565"/>
         <source>Unknown block header</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="670"/>
+        <location filename="../src/code_parse.cpp" line="663"/>
         <source>Unknown type &apos;%1&apos; for this block</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="994"/>
+        <location filename="../src/code_parse.cpp" line="981"/>
         <source>Parameter invalid for the M.U.G.E.N. version of the current project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="998"/>
+        <location filename="../src/code_parse.cpp" line="985"/>
         <source>Parameter deprecated in M.U.G.E.N %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="1010"/>
+        <location filename="../src/code_parse.cpp" line="997"/>
         <source>Unknown parameter &apos;%1&apos; for &apos;%2&apos; block</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="1282"/>
-        <location filename="../src/code_parse.cpp" line="1349"/>
-        <location filename="../src/code_parse.cpp" line="1408"/>
+        <location filename="../src/code_parse.cpp" line="1269"/>
+        <location filename="../src/code_parse.cpp" line="1336"/>
+        <location filename="../src/code_parse.cpp" line="1395"/>
         <source>Maximum of &apos;%1&apos; reached</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="1288"/>
+        <location filename="../src/code_parse.cpp" line="1275"/>
         <source>Invalid keyword &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="1292"/>
+        <location filename="../src/code_parse.cpp" line="1279"/>
         <source>Unknown keyword &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="1665"/>
+        <location filename="../src/code_parse.cpp" line="1652"/>
         <source>Unknown interpolation &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="1675"/>
+        <location filename="../src/code_parse.cpp" line="1662"/>
         <source>Unknown identifier &apos;%1&apos; for animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="1712"/>
+        <location filename="../src/code_parse.cpp" line="1699"/>
         <source>Unknown flip type &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="1743"/>
+        <location filename="../src/code_parse.cpp" line="1732"/>
         <source>Unknown transparency &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_parse.cpp" line="1801"/>
+        <location filename="../src/code_parse.cpp" line="1790"/>
         <source>Syntax error - code ends before line</source>
         <translation type="unfinished"></translation>
     </message>
@@ -565,52 +555,52 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="152"/>
+        <location filename="../src/code_private.cpp" line="153"/>
         <source>Unexpected token: expected %1 got %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="153"/>
+        <location filename="../src/code_private.cpp" line="154"/>
         <source>Unexpected: expected %1 got %2 (&apos;%3&apos;)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="175"/>
+        <location filename="../src/code_private.cpp" line="176"/>
         <source>Expected %1 arguments, got %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="176"/>
+        <location filename="../src/code_private.cpp" line="177"/>
         <source>Unexpected token: expected %1 got %2 (&apos;%3&apos;)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="198"/>
+        <location filename="../src/code_private.cpp" line="199"/>
         <source>%1 invalid for the M.U.G.E.N. version of the current project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="205"/>
+        <location filename="../src/code_private.cpp" line="206"/>
         <source>%1 deprecated in M.U.G.E.N %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="386"/>
+        <location filename="../src/code_private.cpp" line="390"/>
         <source>Unknown trigger &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="504"/>
+        <location filename="../src/code_private.cpp" line="508"/>
         <source>Unknown value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="520"/>
+        <location filename="../src/code_private.cpp" line="524"/>
         <source>Unknown constant &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/code_private.cpp" line="634"/>
+        <location filename="../src/code_private.cpp" line="638"/>
         <source>Unknown command key</source>
         <translation type="unfinished"></translation>
     </message>
@@ -618,12 +608,12 @@
 <context>
     <name>MControllerEditor</name>
     <message>
-        <location filename="../src/bgctrl_editor.cpp" line="262"/>
+        <location filename="../src/bgctrl_editor.cpp" line="271"/>
         <source>Do you really want to delete the controller definition?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/bgctrl_editor.cpp" line="290"/>
+        <location filename="../src/bgctrl_editor.cpp" line="299"/>
         <source>Do you really want to delete the controller?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -649,142 +639,142 @@
 <context>
     <name>MDebugModel</name>
     <message>
-        <location filename="../src/debughelper.cpp" line="2994"/>
+        <location filename="../src/debughelper.cpp" line="2999"/>
         <source>None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3014"/>
+        <location filename="../src/debughelper.cpp" line="3019"/>
         <source>Char</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3015"/>
+        <location filename="../src/debughelper.cpp" line="3020"/>
         <source>Byte</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3017"/>
+        <location filename="../src/debughelper.cpp" line="3022"/>
         <source>Integer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3019"/>
+        <location filename="../src/debughelper.cpp" line="3024"/>
         <source>Float</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3020"/>
+        <location filename="../src/debughelper.cpp" line="3025"/>
         <source>Boolean</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3021"/>
+        <location filename="../src/debughelper.cpp" line="3026"/>
         <source>Keyword</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3022"/>
+        <location filename="../src/debughelper.cpp" line="3027"/>
         <source>String</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3023"/>
+        <location filename="../src/debughelper.cpp" line="3028"/>
         <source>Player</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3025"/>
+        <location filename="../src/debughelper.cpp" line="3030"/>
         <source>Array</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3026"/>
+        <location filename="../src/debughelper.cpp" line="3031"/>
         <source>Bind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3027"/>
+        <location filename="../src/debughelper.cpp" line="3032"/>
         <source>HitOverride</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3028"/>
+        <location filename="../src/debughelper.cpp" line="3033"/>
         <source>PaletteFX</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3029"/>
+        <location filename="../src/debughelper.cpp" line="3034"/>
         <source>PaletteRemap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3030"/>
+        <location filename="../src/debughelper.cpp" line="3035"/>
         <source>Rect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3031"/>
+        <location filename="../src/debughelper.cpp" line="3036"/>
         <source>Explod</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3032"/>
+        <location filename="../src/debughelper.cpp" line="3037"/>
         <source>EnvShake</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3033"/>
+        <location filename="../src/debughelper.cpp" line="3038"/>
         <source>Animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3034"/>
+        <location filename="../src/debughelper.cpp" line="3039"/>
         <source>AfterImageItem</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3035"/>
+        <location filename="../src/debughelper.cpp" line="3040"/>
         <source>AfterImageSlot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3036"/>
+        <location filename="../src/debughelper.cpp" line="3041"/>
         <source>Pause</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3037"/>
+        <location filename="../src/debughelper.cpp" line="3042"/>
         <source>MatchInfo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3038"/>
+        <location filename="../src/debughelper.cpp" line="3043"/>
         <source>Stage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3039"/>
+        <location filename="../src/debughelper.cpp" line="3044"/>
         <source>Backgrounds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3040"/>
+        <location filename="../src/debughelper.cpp" line="3045"/>
         <source>Background</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3041"/>
+        <location filename="../src/debughelper.cpp" line="3046"/>
         <source>BGController</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3042"/>
+        <location filename="../src/debughelper.cpp" line="3047"/>
         <source>Target</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/debughelper.cpp" line="3043"/>
+        <location filename="../src/debughelper.cpp" line="3048"/>
         <source>Projectile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -820,167 +810,167 @@
 <context>
     <name>MEngine</name>
     <message>
-        <location filename="../src/engine.cpp" line="69"/>
+        <location filename="../src/engine.cpp" line="91"/>
         <source>CLSN Default color:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="72"/>
+        <location filename="../src/engine.cpp" line="94"/>
         <source>Attack</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="87"/>
+        <location filename="../src/engine.cpp" line="102"/>
         <source>Collision</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="106"/>
+        <location filename="../src/engine.cpp" line="114"/>
         <source>P1 controls:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="108"/>
-        <location filename="../src/engine.cpp" line="123"/>
+        <location filename="../src/engine.cpp" line="116"/>
+        <location filename="../src/engine.cpp" line="131"/>
         <source>Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="109"/>
-        <location filename="../src/engine.cpp" line="124"/>
+        <location filename="../src/engine.cpp" line="117"/>
+        <location filename="../src/engine.cpp" line="132"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/engine.cpp" line="110"/>
-        <location filename="../src/engine.cpp" line="125"/>
-        <source>Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/engine.cpp" line="111"/>
-        <location filename="../src/engine.cpp" line="126"/>
-        <source>Down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/engine.cpp" line="118"/>
         <location filename="../src/engine.cpp" line="133"/>
+        <source>Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/engine.cpp" line="119"/>
+        <location filename="../src/engine.cpp" line="134"/>
+        <source>Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/engine.cpp" line="126"/>
+        <location filename="../src/engine.cpp" line="141"/>
         <source>Start</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="121"/>
+        <location filename="../src/engine.cpp" line="129"/>
         <source>P2 controls:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="144"/>
+        <location filename="../src/engine.cpp" line="152"/>
         <source>Lazy syntax fix</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="145"/>
+        <location filename="../src/engine.cpp" line="153"/>
         <source>Block header</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="145"/>
+        <location filename="../src/engine.cpp" line="153"/>
         <source>Parameter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="145"/>
+        <location filename="../src/engine.cpp" line="153"/>
         <source>Animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="145"/>
+        <location filename="../src/engine.cpp" line="153"/>
         <source>Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="301"/>
+        <location filename="../src/engine.cpp" line="309"/>
         <source>Current char vs current char</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="302"/>
+        <location filename="../src/engine.cpp" line="310"/>
         <source>Current char vs current char AI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="303"/>
+        <location filename="../src/engine.cpp" line="311"/>
         <source>Current char vs KFM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="304"/>
+        <location filename="../src/engine.cpp" line="312"/>
         <source>Current char vs KFM AI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="305"/>
+        <location filename="../src/engine.cpp" line="313"/>
         <source>KFM vs KFM on current Stage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="306"/>
+        <location filename="../src/engine.cpp" line="314"/>
         <source>Current motif</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="307"/>
+        <location filename="../src/engine.cpp" line="315"/>
         <source>KFM vs KFM on current motif</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="372"/>
+        <location filename="../src/engine.cpp" line="378"/>
         <source>No project to export!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="376"/>
+        <location filename="../src/engine.cpp" line="382"/>
         <source>This project doesn&apos;t support HTML exporting!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="401"/>
+        <location filename="../src/engine.cpp" line="407"/>
         <source>Character</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="402"/>
+        <location filename="../src/engine.cpp" line="408"/>
         <source>Storyboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="403"/>
+        <location filename="../src/engine.cpp" line="409"/>
         <source>Stage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="404"/>
+        <location filename="../src/engine.cpp" line="410"/>
         <source>Font</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="405"/>
+        <location filename="../src/engine.cpp" line="411"/>
         <source>System screens</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="407"/>
+        <location filename="../src/engine.cpp" line="413"/>
         <source>Fight HUD &amp; effects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="408"/>
+        <location filename="../src/engine.cpp" line="414"/>
         <source>Select screen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/engine.cpp" line="419"/>
+        <location filename="../src/engine.cpp" line="425"/>
         <source>Export to HTML</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1002,30 +992,30 @@ Choose a group number to use:</source>
 <context>
     <name>MParentProject</name>
     <message>
-        <location filename="../src/project.cpp" line="2080"/>
-        <location filename="../src/project.cpp" line="2127"/>
+        <location filename="../src/project.cpp" line="2078"/>
+        <location filename="../src/project.cpp" line="2125"/>
         <source>Warning!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="2080"/>
+        <location filename="../src/project.cpp" line="2078"/>
         <source>Oops, you can&apos;t run Storyboard, Font or Fight FX.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="2092"/>
+        <location filename="../src/project.cpp" line="2090"/>
         <source>Project overwrite!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="2092"/>
+        <location filename="../src/project.cpp" line="2090"/>
         <source>The target (temporary) project is in the same folder as source.
 Procceding will cause files being overwriten even they&apos;re not currently saved.
 Do you want to run anyway?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="2127"/>
+        <location filename="../src/project.cpp" line="2125"/>
         <source>Oops, wrong parameters on the engine configuration. Check it in Tools / Options.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1033,42 +1023,42 @@ Do you want to run anyway?</source>
 <context>
     <name>MProject</name>
     <message>
-        <location filename="../src/project.cpp" line="1645"/>
+        <location filename="../src/project.cpp" line="1637"/>
         <source>Name: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="1646"/>
+        <location filename="../src/project.cpp" line="1638"/>
         <source>Date: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="1647"/>
+        <location filename="../src/project.cpp" line="1639"/>
         <source>Version: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="1648"/>
+        <location filename="../src/project.cpp" line="1640"/>
         <source>Auhtor: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="1653"/>
+        <location filename="../src/project.cpp" line="1645"/>
         <source>Palettes: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="1654"/>
+        <location filename="../src/project.cpp" line="1646"/>
         <source>E-mail:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="1655"/>
+        <location filename="../src/project.cpp" line="1647"/>
         <source>Home-page:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/project.cpp" line="1840"/>
+        <location filename="../src/project.cpp" line="1834"/>
         <source>Commands:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1076,22 +1066,22 @@ Do you want to run anyway?</source>
 <context>
     <name>MRemapModel</name>
     <message>
-        <location filename="../src/sprites.cpp" line="739"/>
+        <location filename="../src/sprites.cpp" line="744"/>
         <source>Src Grp</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="740"/>
+        <location filename="../src/sprites.cpp" line="745"/>
         <source>Src Num</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="741"/>
+        <location filename="../src/sprites.cpp" line="746"/>
         <source>Dst Grp</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="742"/>
+        <location filename="../src/sprites.cpp" line="747"/>
         <source>Dst Num</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1134,22 +1124,22 @@ Otherwise, choose Discard to skip this sound or No to insert as is.</source>
 <context>
     <name>MSounds</name>
     <message>
-        <location filename="../src/sounds.cpp" line="986"/>
+        <location filename="../src/sounds.cpp" line="998"/>
         <source>Save SND</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sounds.cpp" line="986"/>
+        <location filename="../src/sounds.cpp" line="998"/>
         <source>You can&apos;t save an empty SND because M.U.G.E.N. will not open it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sounds.cpp" line="1003"/>
+        <location filename="../src/sounds.cpp" line="1015"/>
         <source>Empty sound!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sounds.cpp" line="1008"/>
+        <location filename="../src/sounds.cpp" line="1020"/>
         <source>The group %1, index %2 is already in use by sound #%3!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1157,114 +1147,114 @@ Otherwise, choose Discard to skip this sound or No to insert as is.</source>
 <context>
     <name>MSpriteFileEditor</name>
     <message>
-        <location filename="../src/spr_editor.cpp" line="263"/>
+        <location filename="../src/spr_editor.cpp" line="270"/>
         <source>Position: %1, %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="264"/>
+        <location filename="../src/spr_editor.cpp" line="271"/>
         <source>Horizontal guide: %1, Vertical guide: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="450"/>
+        <location filename="../src/spr_editor.cpp" line="457"/>
         <source>Group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="450"/>
+        <location filename="../src/spr_editor.cpp" line="457"/>
         <source>Can&apos;t detect the group on filename: &apos;%1&apos;.
 Choose a group number to use:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="317"/>
+        <location filename="../src/spr_editor.cpp" line="324"/>
         <source>Confict</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="285"/>
+        <location filename="../src/spr_editor.cpp" line="292"/>
         <source>Convert sprites to 8-bit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="286"/>
+        <location filename="../src/spr_editor.cpp" line="293"/>
         <source>This version doesn&apos;t support 24/32-bit sprites. Do you want to convert these sprites to 8-bit automatically using an optimized palette?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="288"/>
+        <location filename="../src/spr_editor.cpp" line="295"/>
         <source>Converting sprites...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="317"/>
+        <location filename="../src/spr_editor.cpp" line="324"/>
         <source>The index %1 of the group %2 is already in use. Do you want to use the next available index?
 Otherwise, choose Discard to skip this sprite or No to insert as is.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="474"/>
+        <location filename="../src/spr_editor.cpp" line="481"/>
         <source>%1 x %2 px (%3 bit) - %4</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="474"/>
+        <location filename="../src/spr_editor.cpp" line="481"/>
         <source>shared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="474"/>
+        <location filename="../src/spr_editor.cpp" line="481"/>
         <source>unique</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="487"/>
+        <location filename="../src/spr_editor.cpp" line="494"/>
         <source>No image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="677"/>
+        <location filename="../src/spr_editor.cpp" line="684"/>
         <source>Croping sprites...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="857"/>
+        <location filename="../src/spr_editor.cpp" line="864"/>
         <source>Resizing sprites...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="920"/>
+        <location filename="../src/spr_editor.cpp" line="927"/>
         <source>Scale contact boxes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="920"/>
+        <location filename="../src/spr_editor.cpp" line="927"/>
         <source>Do you want to scale contact boxes of frames that uses theses sprites?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="1057"/>
+        <location filename="../src/spr_editor.cpp" line="1064"/>
         <source>Saving images...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="1082"/>
+        <location filename="../src/spr_editor.cpp" line="1089"/>
         <source>Perfect axis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="1082"/>
+        <location filename="../src/spr_editor.cpp" line="1089"/>
         <source>The axis is X: %1, Y: %2. Do you want to save this information to a file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="1182"/>
+        <location filename="../src/spr_editor.cpp" line="1189"/>
         <source>Exporting sprites...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/spr_editor.cpp" line="1206"/>
+        <location filename="../src/spr_editor.cpp" line="1213"/>
         <source>Importing sprites...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1272,87 +1262,87 @@ Otherwise, choose Discard to skip this sprite or No to insert as is.</source>
 <context>
     <name>MSprites</name>
     <message>
-        <location filename="../src/sprites.cpp" line="2929"/>
-        <location filename="../src/sprites.cpp" line="3060"/>
+        <location filename="../src/sprites.cpp" line="2952"/>
+        <location filename="../src/sprites.cpp" line="3083"/>
         <source>Sprite %1 incorrectly linked to index %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="3039"/>
+        <location filename="../src/sprites.cpp" line="3062"/>
         <source>Sprite %1 incorrectly linked to palette index %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="3072"/>
+        <location filename="../src/sprites.cpp" line="3095"/>
         <source>SFF version &apos;%1.%2.%3.%4&apos; not supported yet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4193"/>
-        <location filename="../src/sprites.cpp" line="4209"/>
-        <location filename="../src/sprites.cpp" line="4212"/>
+        <location filename="../src/sprites.cpp" line="4221"/>
+        <location filename="../src/sprites.cpp" line="4237"/>
+        <location filename="../src/sprites.cpp" line="4240"/>
         <source>Save SFF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4193"/>
+        <location filename="../src/sprites.cpp" line="4221"/>
         <source>You can&apos;t save an empty SFF because M.U.G.E.N. will not open it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4209"/>
+        <location filename="../src/sprites.cpp" line="4237"/>
         <source>You can&apos;t save this SFF without palettes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4212"/>
+        <location filename="../src/sprites.cpp" line="4240"/>
         <source>Found %n error(s).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4212"/>
+        <location filename="../src/sprites.cpp" line="4240"/>
         <source> Do you want to let Fighter Factory automatically fix them?
 Choosing &apos;Yes&apos; will convert all sprites to a supported format (data loss may occur) for current SFF version (you can change current version by clicking on it on status bar).
 &apos;No&apos; will cancel this operation and you can manually fix the issues.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4263"/>
+        <location filename="../src/sprites.cpp" line="4291"/>
         <source>Empty sprite!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4266"/>
+        <location filename="../src/sprites.cpp" line="4294"/>
         <source>Indexed sprite without palette!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4268"/>
+        <location filename="../src/sprites.cpp" line="4296"/>
         <source>Image format not supported in this version!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4276"/>
+        <location filename="../src/sprites.cpp" line="4304"/>
         <source>Sprite can&apos;t receive the group 1 (character) palette at his position!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4282"/>
+        <location filename="../src/sprites.cpp" line="4310"/>
         <source>The group %1, index %2 is already in use by sprite #%3!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4303"/>
+        <location filename="../src/sprites.cpp" line="4331"/>
         <source>Required sprite %1, %2 is missing!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4313"/>
+        <location filename="../src/sprites.cpp" line="4341"/>
         <source>Empty palette!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="4318"/>
+        <location filename="../src/sprites.cpp" line="4346"/>
         <source>The group %1, index %2 is already in use by palette #%3!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1360,24 +1350,24 @@ Choosing &apos;Yes&apos; will convert all sprites to a supported format (data lo
 <context>
     <name>MStFileEditor</name>
     <message>
-        <location filename="../src/st_editor.cpp" line="240"/>
+        <location filename="../src/st_editor.cpp" line="242"/>
         <source>No sprites</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/st_editor.cpp" line="240"/>
+        <location filename="../src/st_editor.cpp" line="242"/>
         <source>No sprite found! To work, this function neeed sprites.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/st_editor.cpp" line="261"/>
-        <location filename="../src/st_editor.cpp" line="274"/>
+        <location filename="../src/st_editor.cpp" line="263"/>
+        <location filename="../src/st_editor.cpp" line="276"/>
         <source>No animation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/st_editor.cpp" line="261"/>
-        <location filename="../src/st_editor.cpp" line="274"/>
+        <location filename="../src/st_editor.cpp" line="263"/>
+        <location filename="../src/st_editor.cpp" line="276"/>
         <source>No animation found! To work, this function need animations and its sprites.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3083,75 +3073,89 @@ Choosing &apos;Yes&apos; will convert all sprites to a supported format (data lo
 <context>
     <name>PalFXModel</name>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="14"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="15"/>
         <source>Blue - Violet - Crimson Burn</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="15"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="16"/>
         <source>Shock (bluish)</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="16"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="17"/>
         <source>Shock (Black &amp; White)</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="17"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="18"/>
         <source>Dust - Gray Burn</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="18"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="19"/>
         <source>Evil (purple)</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="19"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="20"/>
         <source>Evil (red)</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="20"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="21"/>
         <source>Fire</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="21"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="22"/>
         <source>Ice</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="22"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="23"/>
         <source>Red - Blood Burn</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="23"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="24"/>
         <source>Poison (purple)</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="24"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="25"/>
         <source>Poison (green)</source>
         <comment>PalFX</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/dialogs/palfxdlg.cpp" line="25"/>
+        <location filename="../src/dialogs/palfxdlg.cpp" line="26"/>
         <source>Yellow - Orange Burn</source>
         <comment>PalFX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QKeySequenceEdit</name>
+    <message>
+        <location filename="../src/qkeysequenceedit.cpp" line="102"/>
+        <source>Press shortcut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/qkeysequenceedit.cpp" line="303"/>
+        <source>%1, ...</source>
+        <extracomment>This text is an &quot;unfinished&quot; shortcut, expands like &quot;Ctrl+A, ...&quot;</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3163,78 +3167,78 @@ Choosing &apos;Yes&apos; will convert all sprites to a supported format (data lo
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backgrounds.cpp" line="1295"/>
+        <location filename="../src/backgrounds.cpp" line="1282"/>
         <source>Title</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backgrounds.cpp" line="1296"/>
+        <location filename="../src/backgrounds.cpp" line="1284"/>
         <source>Select</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backgrounds.cpp" line="1297"/>
+        <location filename="../src/backgrounds.cpp" line="1286"/>
         <source>Versus</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backgrounds.cpp" line="1298"/>
+        <location filename="../src/backgrounds.cpp" line="1288"/>
         <source>Victory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backgrounds.cpp" line="1299"/>
+        <location filename="../src/backgrounds.cpp" line="1290"/>
         <source>Option</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backgrounds.cpp" line="1301"/>
+        <location filename="../src/backgrounds.cpp" line="1294"/>
         <location filename="../src/debughelper.h" line="1409"/>
         <source>Backgrounds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/backgrounds.cpp" line="2124"/>
+        <location filename="../src/backgrounds.cpp" line="2220"/>
         <source>BG Ctrls</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/codedoc.cpp" line="21"/>
+        <location filename="../src/codedoc.cpp" line="470"/>
         <source>Reparsing... please wait!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="537"/>
+        <location filename="../src/sprites.cpp" line="542"/>
         <source>Palette changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="538"/>
+        <location filename="../src/sprites.cpp" line="543"/>
         <source>Do you want to use this colors in all other instances of this palette?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="562"/>
+        <location filename="../src/sprites.cpp" line="567"/>
         <source>Color Count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="562"/>
+        <location filename="../src/sprites.cpp" line="567"/>
         <source>This palette has less colors than the previous. Do you want to set color count to 32 (5 bits)?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="608"/>
+        <location filename="../src/sprites.cpp" line="613"/>
         <source>Load palette at index %1 from file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="1241"/>
+        <location filename="../src/sprites.cpp" line="1253"/>
         <source>Sprite changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/sprites.cpp" line="1242"/>
+        <location filename="../src/sprites.cpp" line="1254"/>
         <source>Do you want to use this image in all other instances of this sprite?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3579,16 +3583,6 @@ Choosing &apos;Yes&apos; will convert all sprites to a supported format (data lo
     <message>
         <location filename="../src/dialogs/thrwdlg.ui" line="172"/>
         <source>Bind:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/thrwdlg.ui" line="194"/>
-        <source>Y:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/dialogs/thrwdlg.ui" line="207"/>
-        <source>X:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
